@@ -1,0 +1,10 @@
+# OSX
+#
+.DS_Store
+.vscode
+.idea
+.atom
+
+.terraform
+.terraform.lock.hcl 
+terraform.*?
